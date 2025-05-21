@@ -21,7 +21,7 @@
  * @copyright  2016 Eoin Campbell
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
-namespace qformat_wordtable;
+//namespace qformat_wordtable;
 
 defined('MOODLE_INTERNAL') || die();
 
